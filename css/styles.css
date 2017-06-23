@@ -169,28 +169,6 @@ footer h2 {
 
 /* Mozilla CSS */
 
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-
-.headerone {
-	color: black;
-	background-color: #e7bd37;
-}
-
-.headertwo {
-	background-color: #ebca5e;
-}
-
-.three {
-	text-align: center;
-	color: #834381;
-}
-
-.three i {
-	font-size: 50px;
-	padding: 10px;
-}
-}
-
 @-moz-document url-prefix() {
 
 .headerone {
